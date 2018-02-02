@@ -1,7 +1,13 @@
 body{
 	background:red;
 }
+<<<<<<< HEAD
 
+=======
+p{
+	font-style:italic;
+}
+>>>>>>> new_style
 .now{
 	margin-left:50px;
 }
